@@ -24,9 +24,7 @@ lass example:
 
             return result
 
-        else:
-
-            raise StopIteration
+    
 
             
 
